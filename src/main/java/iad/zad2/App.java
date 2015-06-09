@@ -1,3 +1,4 @@
+package iad.zad2;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -12,7 +13,7 @@ import com.panayotis.gnuplot.style.NamedPlotColor;
 import com.panayotis.gnuplot.style.PlotStyle;
 import com.panayotis.gnuplot.terminal.ImageTerminal;
 
-public class main {
+public class App {
 	static int liczbaPunktow = 400;
 	static int liczbaWzorcow = 3;
 	static ArrayList<Pkt> punkty = new ArrayList<Pkt>();

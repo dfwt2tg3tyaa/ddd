@@ -1,3 +1,5 @@
+package iad.zad2;
+
 public class Pkt {
 		private double x;
 		private double y;
